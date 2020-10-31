@@ -1,24 +1,11 @@
-# README
+# _Active Storage for Image Uploads_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_22 October 2020_
 
-Things you may want to cover:
+#### _Practice exercise to upload images with Active Storage in Rails_
 
-* Ruby version
+#### By _**Vanessa Stewart**_
 
-* System dependencies
+## Description
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_This is a Rails exercise to practice enabling users to upload images with Active Storage. I followed along with this [tutorial](https://www.youtube.com/watch?v=fVtGy3QL9xg). Check it out!_
